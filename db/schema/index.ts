@@ -5,4 +5,7 @@ Exports the database schema for the app.
 */
 
 export * from "./profiles-schema"
-export * from "./todos-schema"
+export * from "./subscriptions-schema"
+export * from "./currencies-schema"
+export * from "./alerts-schema"
+export * from "./payments-schema"
